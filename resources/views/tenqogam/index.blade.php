@@ -94,13 +94,13 @@
             </p>
             <div class="flex flex-col">
                 <p class=" font-extralight">
-                    <b>Адрес</b>: мк-р Айгерим ул.Азаттык 43
+                    <b>Адрес</b>: г.Алматы, ул.Талдырал, д.13
                 </p>
                 <p class=" font-extralight">
-                    <b>Номер</b>: 87055202788, 87081015971
+                    <b>Номер</b>: +7 (771) 333 80 80
                 </p>
                 <p class=" font-extralight">
-                    <b>Instagram</b>: @invakolyaski.kz
+                    <b>Email</b>: tq_alatau@gmail.com
                 </p>
             </div>
         </div>

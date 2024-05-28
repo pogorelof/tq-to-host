@@ -101,13 +101,10 @@
             </p>
             <div class="flex flex-col">
                 <p class=" font-extralight">
-                    <b>Адрес</b>: мк-р Айгерим ул.Азаттык 43
+                    <b>Номер</b>: +77471953575, +77077106050
                 </p>
                 <p class=" font-extralight">
-                    <b>Номер</b>: 87055202788, 87081015971
-                </p>
-                <p class=" font-extralight">
-                    <b>Instagram</b>: @invakolyaski.kz
+                    <b>Insta</b>: @invataxi_kz
                 </p>
             </div>
         </div>
